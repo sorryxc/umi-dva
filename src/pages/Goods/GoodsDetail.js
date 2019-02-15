@@ -2,10 +2,10 @@ import React, { Component } from 'react'
 
 export default class GoodsDetail extends Component{
   handleClick() {
-    location.href = 'www.baidu.com'
+    window.location.href = 'www.baidu.com'
   }
 
-  redner() {
+  render() {
     return (
       <div>
         <div>

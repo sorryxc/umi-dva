@@ -1,6 +1,6 @@
 {
-  "name": "wanke-cloud",
-  "short_name": "wanke-cloud",
+  "name": "wanke",
+  "short_name": "wanke",
   "display": "standalone",
   "start_url": "./?utm_source=homescreen",
   "theme_color": "#002140",
